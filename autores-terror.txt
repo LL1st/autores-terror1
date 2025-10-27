@@ -1,3 +1,4 @@
 --autores terror--
 
-1. Juan barajas.
+1. Juan Barajas.
+2. Abraham Cocom
